@@ -5,7 +5,7 @@
         <div w-40 flex="~" items-center gap-2 text-4xl>
           <img src="/logo.svg" alt="Qrs" size-1em>
           <h1>
-            Qrs
+            QrTFile
           </h1>
         </div>
         <div
@@ -56,7 +56,7 @@
           </NuxtLink>
         </div>
         <div w-40 flex="~ <sm:1" justify-end text-2xl>
-          <a href="https://github.com/qqrss/qrs" target="_blank" op70 hover="text-blue" duration-300 transition="all ease-in-out" flex="~ items-center gap-1">
+          <a href="https://github.com/WtecHtec/qrs" target="_blank" op70 hover="text-blue" duration-300 transition="all ease-in-out" flex="~ items-center gap-1">
             <span i-carbon:logo-github inline-block />
           </a>
         </div>
